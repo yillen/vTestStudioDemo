@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Manifest>
+  <FileFormatVersion>1</FileFormatVersion>
+  <TestUnitName>callPthon</TestUnitName>
+  <TestUnitUri>vtso://7kfomlqqlvcs/dote5tjfk28h</TestUnitUri>
+  <TsoProject>D:\ECU_Simulator\testPython\vTest\csharp.vtsoproj</TsoProject>
+  <TsoProjectRelative>.\..\csharp.vtsoproj</TsoProjectRelative>
+  <ProjectGuid>7kfomlqqlvcs</ProjectGuid>
+  <EditableSources>false</EditableSources>
+  <ContainsVsDll>true</ContainsVsDll>
+  <GlobalSysVarTypeLibBinary></GlobalSysVarTypeLibBinary>
+  <TestSysVarTypeLibBinary>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="7kfomlqqlvcs_TestSysVars.dll" /&gt;</TestSysVarTypeLibBinary>
+  <COTypeLibBinary></COTypeLibBinary>
+  <UserCaplExportTableHash>0</UserCaplExportTableHash>
+  <CaplArraySize>8192</CaplArraySize>
+  <CaplDiagArraySize>8192</CaplDiagArraySize>
+  <BuildInfo>
+    <CaplCompiler>15.3.89.0</CaplCompiler>
+    <MinRequiredCANoeVersion>15.3.89.0</MinRequiredCANoeVersion>
+    <TsoVersion>6.4.1.0</TsoVersion>
+    <NetApiVersion>15.3.89.0</NetApiVersion>
+    <NetFrameworkVersion>4.0</NetFrameworkVersion>
+    <PythonRuntimeVersion>3.9</PythonRuntimeVersion>
+  </BuildInfo>
+  <NetTypeLibGenerator>
+    <NamespaceGeneration>NoNamespace</NamespaceGeneration>
+    <NetTypeLibs />
+  </NetTypeLibGenerator>
+  <VariantProperties />
+  <Sources>
+    <CaplFiles>
+      <CaplTypeLibBinary>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="dote5tjfk28h_CA.dll" /&gt;</CaplTypeLibBinary>
+    </CaplFiles>
+    <CaplIncludeFiles />
+    <NetFiles>
+      <NetFile>
+        <Source>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="py.cs" /&gt;</Source>
+      </NetFile>
+      <Binary>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="callPthon.dll" /&gt;</Binary>
+      <ExportTable>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="__ExpTbl_\callPthon_CS.export.xml" /&gt;</ExportTable>
+    </NetFiles>
+    <NetBinaries>
+      <NetBinary>
+        <Binary>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="PythonLib.dll" /&gt;</Binary>
+        <TargetArchitecture>AnyCPU</TargetArchitecture>
+      </NetBinary>
+      <ExportTable>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="__ExpTbl_\callPthon_ASM.export.xml" /&gt;</ExportTable>
+    </NetBinaries>
+    <VttFiles>
+      <VttFile>
+        <Source>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="NewFile1.vtt" /&gt;</Source>
+        <Binary>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="NewFile1.vxtx" /&gt;</Binary>
+        <CaplFile>
+          <Source>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="NewFile1.vxtx.can" /&gt;</Source>
+          <Binary>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="NewFile1.vxtx.cbf" /&gt;</Binary>
+        </CaplFile>
+        <ExportTable>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="__ExpTbl_\NewFile1.vtt.export.xml" /&gt;</ExportTable>
+      </VttFile>
+    </VttFiles>
+    <ParameterFiles>
+      <ParamDbTypeLibBinary>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="dote5tjfk28h_PA.dll" /&gt;</ParamDbTypeLibBinary>
+    </ParameterFiles>
+    <WaveformFiles />
+    <WaveformBinaries />
+    <CaplDlls />
+    <PythonFiles />
+  </Sources>
+  <TestSysVar>
+    <Source>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="TestSysVars.vsysvar" /&gt;</Source>
+  </TestSysVar>
+  <ExternalReferences />
+  <SutEnvironment>
+    <Networks />
+    <UseAllNetworks>false</UseAllNetworks>
+  </SutEnvironment>
+  <TUProperties>
+    <Caption></Caption>
+    <Description></Description>
+    <Version></Version>
+    <PreBuildEvent></PreBuildEvent>
+    <PostBuildEvent></PostBuildEvent>
+    <TestDesigners>
+      <Columns />
+      <TestDesignerEntries />
+    </TestDesigners>
+    <TUInfos />
+  </TUProperties>
+  <NodeLayerDlls />
+  <UserFiles />
+  <TetEntries>
+    <TetEntry>
+      <Type>vtt</Type>
+      <Identifier>NewFile1.vtt</Identifier>
+    </TetEntry>
+  </TetEntries>
+</Manifest>

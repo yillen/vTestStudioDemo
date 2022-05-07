@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <FileFormatVersion>13</FileFormatVersion>
+  <ProjectModelRoot>
+    <UniqueId>7kfomlqqlvcs</UniqueId>
+    <EmbeddedSysVars>
+      <ExternalFiles />
+      <MainFile>&lt;?xml version="1.0" encoding="utf-8"?&gt;
+&lt;systemvariables version="1" /&gt;</MainFile>
+      <PersistencyGuid>7132th7v1i6v</PersistencyGuid>
+    </EmbeddedSysVars>
+    <CANoeEmbeddedSysVars>
+      <ExternalFiles />
+      <MainFile>
+      </MainFile>
+      <PersistencyGuid>d8b0la8amlks</PersistencyGuid>
+    </CANoeEmbeddedSysVars>
+    <EmbeddedBasicDiagnosisFiles />
+    <EmbeddedEthernetPortsFile>
+      <Content>
+      </Content>
+      <PersistencyGuid>rn144c347m1t</PersistencyGuid>
+    </EmbeddedEthernetPortsFile>
+    <ExternalReferences />
+    <Libraries />
+    <ProjectRoot>
+      <TestUnits>
+        <FolderName>Test Units</FolderName>
+        <SubFolders>
+          <TestUnit>
+            <FolderName>callPthon</FolderName>
+            <Files>
+              <ProjectFile>
+                <FileName>py.cs</FileName>
+                <PersistencyGuid>52p58sqeh4ro</PersistencyGuid>
+              </ProjectFile>
+              <ProjectFile>
+                <FileName>NewFile1.vtt</FileName>
+                <PersistencyGuid>v7j4ob8hscij</PersistencyGuid>
+              </ProjectFile>
+            </Files>
+            <Files2>
+              <VisualStudioProjectFile>
+                <FileName>PythonLib.dll</FileName>
+                <PersistencyGuid>5ligtbg3nrr7</PersistencyGuid>
+                <CsProjFile>.\..\csharp\PythonLib\PythonLib\PythonLib.csproj</CsProjFile>
+                <AssemblyPath>.\..\csharp\PythonLib\PythonLib\bin\Debug\PythonLib.dll</AssemblyPath>
+                <ShadowCopyPath>.\..\csharp\PythonLib\PythonLib\SymbolAccess</ShadowCopyPath>
+                <TFSReferencesPath>.\..\csharp\PythonLib\PythonLib\TestExecutionRuntime</TFSReferencesPath>
+              </VisualStudioProjectFile>
+            </Files2>
+            <PersistencyGuid>dote5tjfk28h</PersistencyGuid>
+            <FilesExcludedFromTestTree />
+            <FilesExcludedFromBuild />
+            <ExcludeFromBuild>False</ExcludeFromBuild>
+            <EmbeddedTUVariantProperties>
+              <Content>&lt;TUVariantPropertyModel&gt;
+  &lt;FileFormatVersion&gt;1&lt;/FileFormatVersion&gt;
+  &lt;TUVariantPropertyValues&gt;
+    &lt;VariantPropertyRefs /&gt;
+  &lt;/TUVariantPropertyValues&gt;
+&lt;/TUVariantPropertyModel&gt;</Content>
+              <PersistencyGuid>h43ik5009kon</PersistencyGuid>
+            </EmbeddedTUVariantProperties>
+            <EmbeddedTUProperties>
+              <Content>&lt;TUProperties&gt;
+  &lt;Caption&gt;&lt;/Caption&gt;
+  &lt;Description&gt;&lt;/Description&gt;
+  &lt;Version&gt;&lt;/Version&gt;
+  &lt;PreBuildEvent&gt;&lt;/PreBuildEvent&gt;
+  &lt;PostBuildEvent&gt;&lt;/PostBuildEvent&gt;
+  &lt;TestDesigners&gt;
+    &lt;Columns /&gt;
+    &lt;TestDesignerEntries /&gt;
+  &lt;/TestDesigners&gt;
+  &lt;TUInfos /&gt;
+&lt;/TUProperties&gt;</Content>
+              <PersistencyGuid>avbpg39l1ti8</PersistencyGuid>
+            </EmbeddedTUProperties>
+            <ModellingLibraries>
+              <Files />
+            </ModellingLibraries>
+            <SystemModelingLibraries />
+          </TestUnit>
+        </SubFolders>
+      </TestUnits>
+    </ProjectRoot>
+    <ProjectSettings>
+      <NetGenerateNsNetwork>False</NetGenerateNsNetwork>
+      <NetGenerateNsDatabase>False</NetGenerateNsDatabase>
+      <NetGenerateNsNode>False</NetGenerateNsNode>
+      <NetGenerateNsFrame>False</NetGenerateNsFrame>
+      <BuildDirLocal>
+      </BuildDirLocal>
+      <BuildDirPackAndGo>
+      </BuildDirPackAndGo>
+      <BuildMode>Local</BuildMode>
+      <IncludeSources>False</IncludeSources>
+      <CreateExecutableFolder>False</CreateExecutableFolder>
+      <ExportTraceabilityMatrix>False</ExportTraceabilityMatrix>
+      <GenerateXmlDocumentation>False</GenerateXmlDocumentation>
+      <EncryptCaplFiles>False</EncryptCaplFiles>
+      <TdeBreakOnFailDefault>True</TdeBreakOnFailDefault>
+      <TdePartialPathSeparator>_</TdePartialPathSeparator>
+      <TdeTcAnUseId>False</TdeTcAnUseId>
+      <StateChartAlgorithm>BreadthFirst</StateChartAlgorithm>
+      <TteTcBreakOnFailDefault>True</TteTcBreakOnFailDefault>
+      <TteTsBreakOnFailDefault>True</TteTsBreakOnFailDefault>
+      <IsIdAwareProject>True</IsIdAwareProject>
+      <FullNavigationSupported>True</FullNavigationSupported>
+      <UsesPDULayer>False</UsesPDULayer>
+      <UseAllNetworks>False</UseAllNetworks>
+      <UseOutputDirAsWorkingDir>False</UseOutputDirAsWorkingDir>
+      <NetVersion>Net40</NetVersion>
+      <TdeGenerateDescriptionFromComments>False</TdeGenerateDescriptionFromComments>
+      <CaplWarnings />
+    </ProjectSettings>
+    <SUTEnvironment>
+      <SUTSystemVariables>
+        <FolderName>SUT System Variables</FolderName>
+        <Files>
+          <ProjectBasedFileLink>
+            <SerializedBasedFileName>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="..\canoe\systemVar.vsysvar" /&gt;</SerializedBasedFileName>
+            <PersistencyGuid>6grcgdi1g3fh</PersistencyGuid>
+          </ProjectBasedFileLink>
+        </Files>
+      </SUTSystemVariables>
+      <DiagnosticTargets>
+        <FolderName>Diagnostic Targets</FolderName>
+      </DiagnosticTargets>
+      <SUTNetworks>
+        <FolderName>SUT Networks</FolderName>
+      </SUTNetworks>
+      <COLibParts>
+        <FolderName>CO Lib Parts</FolderName>
+      </COLibParts>
+    </SUTEnvironment>
+  </ProjectModelRoot>
+</Project>

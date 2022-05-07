@@ -1,0 +1,9 @@
+[NStatePersistence]
+Signature=VectorStatePersistence
+[VGlobalMeasurementIndex]
+mMeasurementIndex=20
+[VTestConfigurationConfigData]
+Test_Configuration_1_NextTestRun=20
+[VTestExecutable]
+Test_Configuration_1_LastReportFile=Report_Test_Configuration_1.vtestreport
+Test_Configuration_1_LastReportTmpFile=rpt640F.vtestreport

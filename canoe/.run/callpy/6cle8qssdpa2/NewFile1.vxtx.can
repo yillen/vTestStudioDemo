@@ -1,0 +1,60 @@
+﻿/* !Encoding: 65001  */
+includes
+{
+  #include "__VariablesLib.cin"
+  #include "__CaplGeneratorLib.cin"
+  #include "__CANoeReportFuntionsLib.cin"
+}
+
+variables
+{
+  // Global variables defined within this CAPL file
+}
+
+void Ttti1tuid_Tet_TtInit()
+{
+
+}
+
+void Ttti1tuid_Tet_Tc0()
+{
+  CreateTTEIFFunction("Ttti1tuid_Tc0", __eTcDef, __eLocal);  
+  CallInterfaceFunction("Test Case", __cEmpty , __cEmpty );
+}
+testcase Ttti1tuid_Tc0()
+{	
+  SetBreakOnFail(1);
+
+  TestCommandBegin(__eSet, __cSet, "", "0");
+  {
+  
+    __ReportTableHead3Columns(__cSetCaption , __cTSym, __cTOp, __cAssigned); 
+    {
+      snprintf(__cArray, 8192, "%s", "abc");
+      sysSetVariableString(sysvarString::`Json::`global_json, __cArray);
+      snprintf(__cArray2, 8192, "%s", "global_json");
+      snprintf(__cArray3, 8192, "%s '%s'", __cSysVar, __cArray2);
+      snprintf(__cArray4, 8192, "%s", "");
+      
+      __ReportTableRow(0, __cArray3, __cAOp, __cArray, __cArray4);
+  
+    }
+    __ReportTableEndTestStep("1");
+  }
+  TestCommandEnd();
+
+  TestCommandBegin(__eWait, __cWait, "", "1");
+  {
+    __Wait("1", (100 * 1000000LL), 1000000, "");
+  }
+  TestCommandEnd();
+
+  {
+    TestGetTestClientNameCIdentifier(__cArray, 8192);
+    CreateNetIFFunction(__cArray, "IPCP", "init_ipcp", __eTestFct);
+    CallInterfaceFunction("init_ipcp ()", __cEmpty, "2");
+  }
+
+
+}
+

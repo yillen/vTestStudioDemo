@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<testtree>
+  <title></title>
+  <version>1</version>
+  <caplfunction>
+    <name>Ttti1tuid_Tet_TtInit</name>
+  </caplfunction>
+  <testcase>
+    <title>Test Case</title>
+    <testcaseid>50a9291f-33d0-4d2b-b7b4-85510fe4f3c0</testcaseid>
+    <caplfunction>
+      <name>Ttti1tuid_Tet_Tc0</name>
+    </caplfunction>
+  </testcase>
+</testtree>

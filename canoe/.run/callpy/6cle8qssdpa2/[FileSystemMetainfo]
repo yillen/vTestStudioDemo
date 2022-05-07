@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FileSystemMetainfo>
+  <Files>
+    <File Name="build.log" Time="2022年5月6日 19:51:50">
+      <SerializedBasedFileName>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="build.log" /&gt;</SerializedBasedFileName>
+      <CreationTime>2022-05-06T09:08:15.8468484+08:00</CreationTime>
+      <LastWriteTime>2022-05-06T19:51:50.2045511+08:00</LastWriteTime>
+    </File>
+    <File Name="callPthon.vtumanifest" Time="2022年5月6日 19:51:50">
+      <SerializedBasedFileName>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="callPthon.vtumanifest" /&gt;</SerializedBasedFileName>
+      <CreationTime>2022-05-06T09:08:15.8129964+08:00</CreationTime>
+      <LastWriteTime>2022-05-06T19:51:50.2015504+08:00</LastWriteTime>
+    </File>
+    <File Name="NewFile1.vtt" Time="2022年5月6日 19:51:50">
+      <SerializedBasedFileName>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="NewFile1.vtt" /&gt;</SerializedBasedFileName>
+      <CreationTime>2022-05-06T19:51:50.1457409+08:00</CreationTime>
+      <LastWriteTime>2022-05-06T19:51:50.1457409+08:00</LastWriteTime>
+    </File>
+    <File Name="py.cs" Time="2022年5月6日 19:44:12">
+      <SerializedBasedFileName>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="py.cs" /&gt;</SerializedBasedFileName>
+      <CreationTime>2022-05-06T19:44:12.5734023+08:00</CreationTime>
+      <LastWriteTime>2022-05-06T19:44:12.5734023+08:00</LastWriteTime>
+    </File>
+    <File Name="PythonLib.dll" Time="2022年5月6日 19:51:42">
+      <SerializedBasedFileName>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="PythonLib.dll" /&gt;</SerializedBasedFileName>
+      <CreationTime>2022-05-06T19:51:42.3658032+08:00</CreationTime>
+      <LastWriteTime>2022-05-06T19:51:42.3658032+08:00</LastWriteTime>
+    </File>
+    <File Name="TestSysVars.vsysvar" Time="2022年5月6日 9:00:42">
+      <SerializedBasedFileName>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="TestSysVars.vsysvar" /&gt;</SerializedBasedFileName>
+      <CreationTime>2022-05-06T09:08:15.7720837+08:00</CreationTime>
+      <LastWriteTime>2022-05-06T09:00:42.6092615+08:00</LastWriteTime>
+    </File>
+    <File Name="[FileSystemMetainfo]" Time="2022年5月6日 9:22:07">
+      <SerializedBasedFileName>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="[FileSystemMetainfo]" /&gt;</SerializedBasedFileName>
+      <CreationTime>2022-05-06T09:22:07.5574706+08:00</CreationTime>
+      <LastWriteTime>2022-05-06T09:22:07.5574706+08:00</LastWriteTime>
+    </File>
+    <File Name="[MakeInfo]" Time="2022年5月6日 19:51:50">
+      <SerializedBasedFileName>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="[MakeInfo]" /&gt;</SerializedBasedFileName>
+      <CreationTime>2022-05-06T09:08:15.8448526+08:00</CreationTime>
+      <LastWriteTime>2022-05-06T19:51:50.2045511+08:00</LastWriteTime>
+    </File>
+    <File Name="callPthon_ASM.export.xml" Time="2022年5月6日 9:08:13">
+      <SerializedBasedFileName>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="__ExpTbl_\callPthon_ASM.export.xml" /&gt;</SerializedBasedFileName>
+      <CreationTime>2022-05-06T09:08:13.7440504+08:00</CreationTime>
+      <LastWriteTime>2022-05-06T09:08:13.7440504+08:00</LastWriteTime>
+    </File>
+    <File Name="callPthon_CS.export.xml" Time="2022年5月6日 9:08:13">
+      <SerializedBasedFileName>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="__ExpTbl_\callPthon_CS.export.xml" /&gt;</SerializedBasedFileName>
+      <CreationTime>2022-05-06T09:08:13.7440504+08:00</CreationTime>
+      <LastWriteTime>2022-05-06T09:08:13.7440504+08:00</LastWriteTime>
+    </File>
+    <File Name="NewFile1.vtt.export.xml" Time="2022年5月6日 9:08:13">
+      <SerializedBasedFileName>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="__ExpTbl_\NewFile1.vtt.export.xml" /&gt;</SerializedBasedFileName>
+      <CreationTime>2022-05-06T09:08:13.7440504+08:00</CreationTime>
+      <LastWriteTime>2022-05-06T09:08:13.7440504+08:00</LastWriteTime>
+    </File>
+    <File Name="7kfomlqqlvcs_TestSysVars.dll" Time="2022年5月6日 9:22:08">
+      <SerializedBasedFileName>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="__TsoBuildFiles_\7kfomlqqlvcs_TestSysVars.dll" /&gt;</SerializedBasedFileName>
+      <CreationTime>2022-05-06T09:08:14.6576678+08:00</CreationTime>
+      <LastWriteTime>2022-05-06T09:22:08.3054562+08:00</LastWriteTime>
+    </File>
+    <File Name="callPthon.dll" Time="2022年5月6日 19:51:43">
+      <SerializedBasedFileName>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="__TsoBuildFiles_\callPthon.dll" /&gt;</SerializedBasedFileName>
+      <CreationTime>2022-05-06T09:08:14.6836268+08:00</CreationTime>
+      <LastWriteTime>2022-05-06T19:51:43.4294446+08:00</LastWriteTime>
+    </File>
+    <File Name="dote5tjfk28h_CA.dll" Time="2022年5月6日 9:22:08">
+      <SerializedBasedFileName>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="__TsoBuildFiles_\dote5tjfk28h_CA.dll" /&gt;</SerializedBasedFileName>
+      <CreationTime>2022-05-06T09:08:14.3671051+08:00</CreationTime>
+      <LastWriteTime>2022-05-06T09:22:08.0501431+08:00</LastWriteTime>
+    </File>
+    <File Name="dote5tjfk28h_PA.dll" Time="2022年5月6日 9:22:07">
+      <SerializedBasedFileName>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="__TsoBuildFiles_\dote5tjfk28h_PA.dll" /&gt;</SerializedBasedFileName>
+      <CreationTime>2022-05-06T09:08:14.1126145+08:00</CreationTime>
+      <LastWriteTime>2022-05-06T09:22:07.8207927+08:00</LastWriteTime>
+    </File>
+  </Files>
+</FileSystemMetainfo>

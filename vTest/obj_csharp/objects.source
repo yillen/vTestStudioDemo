@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TempFileMetainfo xmlns:i="http://www.w3.org/2001/XMLSchema-instance" z:Id="1" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/" xmlns="http://schemas.datacontract.org/2004/07/Vector.ITE.TempFileRepository.MetainfoModel">
+  <FileFormatVersion xmlns="http://schemas.datacontract.org/2004/07/Vector.Reusable.ModelFramework">1</FileFormatVersion>
+  <TempFileMetainfo xmlns:d2p1="http://schemas.datacontract.org/2004/07/Vector.ITE.TempFileRepository.MetainfoModel.Entities" z:Id="2">
+    <_p z:Ref="1" i:nil="true" xmlns="http://schemas.datacontract.org/2004/07/Vector.Reusable.ModelFramework" />
+    <d2p1:FileSources z:Id="3">
+      <Content z:Id="4" z:Size="10" xmlns="http://schemas.datacontract.org/2004/07/Vector.Reusable.ModelFramework">
+        <d2p1:FileSource z:Id="5" i:type="d2p1:CrcBasedFileSource">
+          <_p z:Ref="3" i:nil="true" />
+          <d2p1:AppVersion z:Id="6">6.4.1.0</d2p1:AppVersion>
+          <d2p1:Extension z:Id="7">.</d2p1:Extension>
+          <d2p1:GeneratedFileModificationTime>2022-05-06T09:00:42.593131+08:00</d2p1:GeneratedFileModificationTime>
+          <d2p1:GeneratedFileSize>71</d2p1:GeneratedFileSize>
+          <d2p1:PersistencyKey z:Id="8">7132th7v1i6v-TSV</d2p1:PersistencyKey>
+          <d2p1:Crc>2380691147</d2p1:Crc>
+          <d2p1:SourceFile z:Id="9">D:\ECU_Simulator\testPython\vTest\csharp.vtsoproj</d2p1:SourceFile>
+        </d2p1:FileSource>
+        <d2p1:FileSource z:Id="10" i:type="d2p1:MultiFileSource">
+          <_p z:Ref="3" i:nil="true" />
+          <d2p1:AppVersion z:Ref="6" i:nil="true" />
+          <d2p1:Extension z:Ref="7" i:nil="true" />
+          <d2p1:GeneratedFileModificationTime>2022-05-06T09:00:42.6092615+08:00</d2p1:GeneratedFileModificationTime>
+          <d2p1:GeneratedFileSize>74</d2p1:GeneratedFileSize>
+          <d2p1:PersistencyKey z:Id="11">7132th7v1i6v-MTSV</d2p1:PersistencyKey>
+          <d2p1:FileSourceDescriptions z:Id="12">
+            <Content z:Id="13" z:Size="1">
+              <d2p1:FileSourceDescription z:Id="14">
+                <_p z:Ref="12" i:nil="true" />
+                <d2p1:FullFilePath z:Id="15">D:\ECU_Simulator\testPython\vTest\obj_csharp\7132th7v1i6v-TSV.</d2p1:FullFilePath>
+                <d2p1:SourceModificationTime>2022-05-06T09:00:42.593131+08:00</d2p1:SourceModificationTime>
+              </d2p1:FileSourceDescription>
+            </Content>
+            <_p z:Ref="10" i:nil="true" />
+          </d2p1:FileSourceDescriptions>
+        </d2p1:FileSource>
+        <d2p1:FileSource z:Id="16" i:type="d2p1:CrcBasedFileSource">
+          <_p z:Ref="3" i:nil="true" />
+          <d2p1:AppVersion z:Ref="6" i:nil="true" />
+          <d2p1:Extension z:Id="17">.vvarprop</d2p1:Extension>
+          <d2p1:GeneratedFileModificationTime>2022-05-06T09:00:42.7597244+08:00</d2p1:GeneratedFileModificationTime>
+          <d2p1:GeneratedFileSize>266</d2p1:GeneratedFileSize>
+          <d2p1:PersistencyKey z:Id="18">TU_Indep=VP</d2p1:PersistencyKey>
+          <d2p1:Crc>3110147276</d2p1:Crc>
+          <d2p1:SourceFile z:Id="19"></d2p1:SourceFile>
+        </d2p1:FileSource>
+        <d2p1:FileSource z:Id="20" i:type="d2p1:MultiFileSource">
+          <_p z:Ref="3" i:nil="true" />
+          <d2p1:AppVersion z:Ref="6" i:nil="true" />
+          <d2p1:Extension z:Ref="7" i:nil="true" />
+          <d2p1:GeneratedFileModificationTime>2022-05-06T09:00:43.2962637+08:00</d2p1:GeneratedFileModificationTime>
+          <d2p1:GeneratedFileSize>4096</d2p1:GeneratedFileSize>
+          <d2p1:PersistencyKey z:Id="21">7132th7v1i6v#SV</d2p1:PersistencyKey>
+          <d2p1:FileSourceDescriptions z:Id="22">
+            <Content z:Id="23" z:Size="1">
+              <d2p1:FileSourceDescription z:Id="24">
+                <_p z:Ref="22" i:nil="true" />
+                <d2p1:FullFilePath z:Id="25">D:\ECU_Simulator\testPython\vTest\obj_csharp\7132th7v1i6v-MTSV</d2p1:FullFilePath>
+                <d2p1:SourceModificationTime>2022-05-06T09:00:42.6092615+08:00</d2p1:SourceModificationTime>
+              </d2p1:FileSourceDescription>
+            </Content>
+            <_p z:Ref="20" i:nil="true" />
+          </d2p1:FileSourceDescriptions>
+        </d2p1:FileSource>
+        <d2p1:FileSource z:Id="26" i:type="d2p1:CrcBasedFileSource">
+          <_p z:Ref="3" i:nil="true" />
+          <d2p1:AppVersion z:Ref="6" i:nil="true" />
+          <d2p1:Extension z:Ref="17" i:nil="true" />
+          <d2p1:GeneratedFileModificationTime>2022-05-06T09:01:26.0922329+08:00</d2p1:GeneratedFileModificationTime>
+          <d2p1:GeneratedFileSize>266</d2p1:GeneratedFileSize>
+          <d2p1:PersistencyKey z:Id="27">dote5tjfk28h=VP</d2p1:PersistencyKey>
+          <d2p1:Crc>3110147276</d2p1:Crc>
+          <d2p1:SourceFile z:Ref="19" i:nil="true" />
+        </d2p1:FileSource>
+        <d2p1:FileSource z:Id="28" i:type="d2p1:MultiFileSource">
+          <_p z:Ref="3" i:nil="true" />
+          <d2p1:AppVersion z:Ref="6" i:nil="true" />
+          <d2p1:Extension z:Ref="7" i:nil="true" />
+          <d2p1:GeneratedFileModificationTime>2022-05-06T09:05:43.6971865+08:00</d2p1:GeneratedFileModificationTime>
+          <d2p1:GeneratedFileSize>4608</d2p1:GeneratedFileSize>
+          <d2p1:PersistencyKey z:Id="29">dote5tjfk28h#PA</d2p1:PersistencyKey>
+          <d2p1:FileSourceDescriptions z:Id="30">
+            <Content z:Id="31" z:Size="1">
+              <d2p1:FileSourceDescription z:Id="32">
+                <_p z:Ref="30" i:nil="true" />
+                <d2p1:FullFilePath z:Id="33">D:\ECU_Simulator\testPython\vTest\obj_csharp\dote5tjfk28h=VP.vvarprop</d2p1:FullFilePath>
+                <d2p1:SourceModificationTime>2022-05-06T09:01:26.0922329+08:00</d2p1:SourceModificationTime>
+              </d2p1:FileSourceDescription>
+            </Content>
+            <_p z:Ref="28" i:nil="true" />
+          </d2p1:FileSourceDescriptions>
+        </d2p1:FileSource>
+        <d2p1:FileSource z:Id="34" i:type="d2p1:MultiFileSource">
+          <_p z:Ref="3" i:nil="true" />
+          <d2p1:AppVersion z:Ref="6" i:nil="true" />
+          <d2p1:Extension z:Ref="7" i:nil="true" />
+          <d2p1:GeneratedFileModificationTime>2022-05-06T19:51:50.16366+08:00</d2p1:GeneratedFileModificationTime>
+          <d2p1:GeneratedFileSize>1800</d2p1:GeneratedFileSize>
+          <d2p1:PersistencyKey z:Id="35">dote5tjfk28h~1-0</d2p1:PersistencyKey>
+          <d2p1:FileSourceDescriptions z:Id="36">
+            <Content z:Id="37" z:Size="1">
+              <d2p1:FileSourceDescription z:Id="38">
+                <_p z:Ref="36" i:nil="true" />
+                <d2p1:FullFilePath z:Id="39">D:\ECU_Simulator\testPython\vTest\callPthon\py.cs</d2p1:FullFilePath>
+                <d2p1:SourceModificationTime>2022-05-06T19:44:11.082197+08:00</d2p1:SourceModificationTime>
+              </d2p1:FileSourceDescription>
+            </Content>
+            <_p z:Ref="34" i:nil="true" />
+          </d2p1:FileSourceDescriptions>
+        </d2p1:FileSource>
+        <d2p1:FileSource z:Id="40" i:type="d2p1:MultiFileSource">
+          <_p z:Ref="3" i:nil="true" />
+          <d2p1:AppVersion z:Ref="6" i:nil="true" />
+          <d2p1:Extension z:Ref="7" i:nil="true" />
+          <d2p1:GeneratedFileModificationTime>2022-05-06T20:23:40.5451911+08:00</d2p1:GeneratedFileModificationTime>
+          <d2p1:GeneratedFileSize>54</d2p1:GeneratedFileSize>
+          <d2p1:PersistencyKey z:Id="41">dote5tjfk28h~2-0</d2p1:PersistencyKey>
+          <d2p1:FileSourceDescriptions z:Id="42">
+            <Content z:Id="43" z:Size="1">
+              <d2p1:FileSourceDescription z:Id="44">
+                <_p z:Ref="42" i:nil="true" />
+                <d2p1:FullFilePath z:Id="45">D:\ECU_Simulator\testPython\vTest\callPthon\PythonLib.dll</d2p1:FullFilePath>
+                <d2p1:SourceModificationTime>2022-05-06T08:53:56.7805314+08:00</d2p1:SourceModificationTime>
+              </d2p1:FileSourceDescription>
+            </Content>
+            <_p z:Ref="40" i:nil="true" />
+          </d2p1:FileSourceDescriptions>
+        </d2p1:FileSource>
+        <d2p1:FileSource z:Id="46" i:type="d2p1:MultiFileSource">
+          <_p z:Ref="3" i:nil="true" />
+          <d2p1:AppVersion z:Ref="6" i:nil="true" />
+          <d2p1:Extension z:Ref="7" i:nil="true" />
+          <d2p1:GeneratedFileModificationTime>2022-05-06T19:51:50.1696362+08:00</d2p1:GeneratedFileModificationTime>
+          <d2p1:GeneratedFileSize>54</d2p1:GeneratedFileSize>
+          <d2p1:PersistencyKey z:Id="47">dote5tjfk28h~3-0</d2p1:PersistencyKey>
+          <d2p1:FileSourceDescriptions z:Id="48">
+            <Content z:Id="49" z:Size="1">
+              <d2p1:FileSourceDescription z:Id="50">
+                <_p z:Ref="48" i:nil="true" />
+                <d2p1:FullFilePath z:Id="51">D:\ECU_Simulator\testPython\vTest\callPthon\NewFile1.vtt</d2p1:FullFilePath>
+                <d2p1:SourceModificationTime>2022-05-06T09:30:27.1250224+08:00</d2p1:SourceModificationTime>
+              </d2p1:FileSourceDescription>
+            </Content>
+            <_p z:Ref="46" i:nil="true" />
+          </d2p1:FileSourceDescriptions>
+        </d2p1:FileSource>
+        <d2p1:FileSource z:Id="52" i:type="d2p1:MultiFileSource">
+          <_p z:Ref="3" i:nil="true" />
+          <d2p1:AppVersion z:Ref="6" i:nil="true" />
+          <d2p1:Extension z:Ref="7" i:nil="true" />
+          <d2p1:GeneratedFileModificationTime>2022-05-06T09:22:07.2752316+08:00</d2p1:GeneratedFileModificationTime>
+          <d2p1:GeneratedFileSize>6144</d2p1:GeneratedFileSize>
+          <d2p1:PersistencyKey z:Id="53">6grcgdi1g3fh#SV</d2p1:PersistencyKey>
+          <d2p1:FileSourceDescriptions z:Id="54">
+            <Content z:Id="55" z:Size="1">
+              <d2p1:FileSourceDescription z:Id="56">
+                <_p z:Ref="54" i:nil="true" />
+                <d2p1:FullFilePath z:Id="57">D:\ECU_Simulator\testPython\canoe\systemVar.vsysvar</d2p1:FullFilePath>
+                <d2p1:SourceModificationTime>2022-05-06T09:21:16.5594798+08:00</d2p1:SourceModificationTime>
+              </d2p1:FileSourceDescription>
+            </Content>
+            <_p z:Ref="52" i:nil="true" />
+          </d2p1:FileSourceDescriptions>
+        </d2p1:FileSource>
+      </Content>
+      <_p z:Ref="2" i:nil="true" xmlns="http://schemas.datacontract.org/2004/07/Vector.Reusable.ModelFramework" />
+    </d2p1:FileSources>
+    <d2p1:TempFileMappings z:Id="58">
+      <Content z:Id="59" z:Size="3" xmlns="http://schemas.datacontract.org/2004/07/Vector.Reusable.ModelFramework">
+        <d2p1:TempFileMapping z:Id="60">
+          <_p z:Ref="58" i:nil="true" />
+          <d2p1:FileSource z:Ref="20" i:nil="true" />
+          <d2p1:MappingValue z:Id="61">7kfomlqqlvcs_TestSysVars</d2p1:MappingValue>
+        </d2p1:TempFileMapping>
+        <d2p1:TempFileMapping z:Id="62">
+          <_p z:Ref="58" i:nil="true" />
+          <d2p1:FileSource z:Ref="28" i:nil="true" />
+          <d2p1:MappingValue z:Id="63">dote5tjfk28h_PA</d2p1:MappingValue>
+        </d2p1:TempFileMapping>
+        <d2p1:TempFileMapping z:Id="64">
+          <_p z:Ref="58" i:nil="true" />
+          <d2p1:FileSource z:Ref="52" i:nil="true" />
+          <d2p1:MappingValue z:Id="65">systemVar</d2p1:MappingValue>
+        </d2p1:TempFileMapping>
+      </Content>
+      <_p z:Ref="2" i:nil="true" xmlns="http://schemas.datacontract.org/2004/07/Vector.Reusable.ModelFramework" />
+    </d2p1:TempFileMappings>
+  </TempFileMetainfo>
+</TempFileMetainfo>

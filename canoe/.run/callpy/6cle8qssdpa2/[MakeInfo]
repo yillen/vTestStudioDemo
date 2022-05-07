@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MakeInfo>
+  <EnvironmentHash>11561771761083942229</EnvironmentHash>
+  <ExportTableHash>4202945652699821606</ExportTableHash>
+  <UserCaplExportTableHash>0</UserCaplExportTableHash>
+  <Files>
+    <File Name="dote5tjfk28h=VP.vvarprop" Time="2022年5月6日 9:01:26" DependentOn="">
+      <SerializedBasedFileName>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="..\dote5tjfk28h=VP.vvarprop" /&gt;</SerializedBasedFileName>
+      <LastWriteTime>2022-05-06T09:01:26.0922329+08:00</LastWriteTime>
+      <Dependencies />
+    </File>
+    <File Name="dote5tjfk28h_PA.dll" Time="2022年5月6日 9:22:07" DependentOn="dote5tjfk28h=VP.vvarprop">
+      <SerializedBasedFileName>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="__TsoBuildFiles_\dote5tjfk28h_PA.dll" /&gt;</SerializedBasedFileName>
+      <LastWriteTime>2022-05-06T09:22:07.8207927+08:00</LastWriteTime>
+      <Dependencies>
+        <DependentOn Name="dote5tjfk28h=VP.vvarprop" Time="2022年5月6日 9:01:26">
+          <File>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="..\dote5tjfk28h=VP.vvarprop" /&gt;</File>
+          <LastWriteTime>2022-05-06T09:01:26.0922329+08:00</LastWriteTime>
+        </DependentOn>
+      </Dependencies>
+    </File>
+    <File Name="7kfomlqqlvcs_TestSysVars.dll" Time="2022年5月6日 9:22:08" DependentOn="7132th7v1i6v-MTSV">
+      <SerializedBasedFileName>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="__TsoBuildFiles_\7kfomlqqlvcs_TestSysVars.dll" /&gt;</SerializedBasedFileName>
+      <LastWriteTime>2022-05-06T09:22:08.3054562+08:00</LastWriteTime>
+      <Dependencies>
+        <DependentOn Name="7132th7v1i6v-MTSV" Time="2022年5月6日 9:00:42">
+          <File>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="..\7132th7v1i6v-MTSV" /&gt;</File>
+          <LastWriteTime>2022-05-06T09:00:42.6092615+08:00</LastWriteTime>
+        </DependentOn>
+      </Dependencies>
+    </File>
+    <File Name="7132th7v1i6v-MTSV" Time="2022年5月6日 9:00:42" DependentOn="">
+      <SerializedBasedFileName>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="..\7132th7v1i6v-MTSV" /&gt;</SerializedBasedFileName>
+      <LastWriteTime>2022-05-06T09:00:42.6092615+08:00</LastWriteTime>
+      <Dependencies />
+    </File>
+    <File Name="callPthon.dll" Time="2022年5月6日 19:51:43" DependentOn="py.cs, PythonLib.dll, dote5tjfk28h_PA.dll, dote5tjfk28h_CA.dll, 7kfomlqqlvcs_TestSysVars.dll">
+      <SerializedBasedFileName>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="__TsoBuildFiles_\callPthon.dll" /&gt;</SerializedBasedFileName>
+      <LastWriteTime>2022-05-06T19:51:43.4294446+08:00</LastWriteTime>
+      <Dependencies>
+        <DependentOn Name="py.cs" Time="2022年5月6日 19:44:11">
+          <File>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="..\..\callPthon\py.cs" /&gt;</File>
+          <LastWriteTime>2022-05-06T19:44:11.0821970+08:00</LastWriteTime>
+        </DependentOn>
+        <DependentOn Name="PythonLib.dll" Time="2022年5月6日 19:51:38">
+          <File>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="..\..\callPthon\PythonLib.dll" /&gt;</File>
+          <LastWriteTime>2022-05-06T19:51:38.4506630+08:00</LastWriteTime>
+        </DependentOn>
+        <DependentOn Name="dote5tjfk28h_PA.dll" Time="2022年5月6日 9:22:07">
+          <File>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="__TsoBuildFiles_\dote5tjfk28h_PA.dll" /&gt;</File>
+          <LastWriteTime>2022-05-06T09:22:07.8207927+08:00</LastWriteTime>
+        </DependentOn>
+        <DependentOn Name="dote5tjfk28h_CA.dll" Time="2022年5月6日 9:22:08">
+          <File>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="__TsoBuildFiles_\dote5tjfk28h_CA.dll" /&gt;</File>
+          <LastWriteTime>2022-05-06T09:22:08.0501431+08:00</LastWriteTime>
+        </DependentOn>
+        <DependentOn Name="7kfomlqqlvcs_TestSysVars.dll" Time="2022年5月6日 9:22:08">
+          <File>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="__TsoBuildFiles_\7kfomlqqlvcs_TestSysVars.dll" /&gt;</File>
+          <LastWriteTime>2022-05-06T09:22:08.3054562+08:00</LastWriteTime>
+        </DependentOn>
+      </Dependencies>
+    </File>
+    <File Name="py.cs" Time="2022年5月6日 19:44:11" DependentOn="">
+      <SerializedBasedFileName>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="..\..\callPthon\py.cs" /&gt;</SerializedBasedFileName>
+      <LastWriteTime>2022-05-06T19:44:11.0821970+08:00</LastWriteTime>
+      <Dependencies />
+    </File>
+    <File Name="PythonLib.dll" Time="2022年5月6日 19:51:38" DependentOn="">
+      <SerializedBasedFileName>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="..\..\callPthon\PythonLib.dll" /&gt;</SerializedBasedFileName>
+      <LastWriteTime>2022-05-06T19:51:38.4506630+08:00</LastWriteTime>
+      <Dependencies />
+    </File>
+    <File Name="dote5tjfk28h_CA.dll" Time="2022年5月6日 9:22:08" DependentOn="">
+      <SerializedBasedFileName>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="__TsoBuildFiles_\dote5tjfk28h_CA.dll" /&gt;</SerializedBasedFileName>
+      <LastWriteTime>2022-05-06T09:22:08.0501431+08:00</LastWriteTime>
+      <Dependencies />
+    </File>
+    <File Name="NewFile1.vtt" Time="2022年5月6日 9:25:24" DependentOn="dote5tjfk28h=VP.vvarprop">
+      <SerializedBasedFileName>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="..\..\callPthon\NewFile1.vtt" /&gt;</SerializedBasedFileName>
+      <LastWriteTime>2022-05-06T09:25:24.2628588+08:00</LastWriteTime>
+      <Dependencies>
+        <DependentOn Name="dote5tjfk28h=VP.vvarprop" Time="2022年5月6日 9:01:26">
+          <File>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="..\dote5tjfk28h=VP.vvarprop" /&gt;</File>
+          <LastWriteTime>2022-05-06T09:01:26.0922329+08:00</LastWriteTime>
+        </DependentOn>
+      </Dependencies>
+    </File>
+    <File Name="py.cs" Time="2022年5月6日 19:44:12" DependentOn="py.cs">
+      <SerializedBasedFileName>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="py.cs" /&gt;</SerializedBasedFileName>
+      <LastWriteTime>2022-05-06T19:44:12.5734023+08:00</LastWriteTime>
+      <Dependencies>
+        <DependentOn Name="py.cs" Time="2022年5月6日 19:44:11">
+          <File>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="..\..\callPthon\py.cs" /&gt;</File>
+          <LastWriteTime>2022-05-06T19:44:11.0821970+08:00</LastWriteTime>
+        </DependentOn>
+      </Dependencies>
+    </File>
+    <File Name="PythonLib.dll" Time="2022年5月6日 19:51:42" DependentOn="PythonLib.dll">
+      <SerializedBasedFileName>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="PythonLib.dll" /&gt;</SerializedBasedFileName>
+      <LastWriteTime>2022-05-06T19:51:42.3658032+08:00</LastWriteTime>
+      <Dependencies>
+        <DependentOn Name="PythonLib.dll" Time="2022年5月6日 19:51:38">
+          <File>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="..\..\callPthon\PythonLib.dll" /&gt;</File>
+          <LastWriteTime>2022-05-06T19:51:38.4506630+08:00</LastWriteTime>
+        </DependentOn>
+      </Dependencies>
+    </File>
+    <File Name="TestSysVars.vsysvar" Time="2022年5月6日 9:00:42" DependentOn="7132th7v1i6v-MTSV">
+      <SerializedBasedFileName>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="TestSysVars.vsysvar" /&gt;</SerializedBasedFileName>
+      <LastWriteTime>2022-05-06T09:00:42.6092615+08:00</LastWriteTime>
+      <Dependencies>
+        <DependentOn Name="7132th7v1i6v-MTSV" Time="2022年5月6日 9:00:42">
+          <File>&lt;VFileName v="V9" f="BQL" init="1" base="cfg" name="..\7132th7v1i6v-MTSV" /&gt;</File>
+          <LastWriteTime>2022-05-06T09:00:42.6092615+08:00</LastWriteTime>
+        </DependentOn>
+      </Dependencies>
+    </File>
+  </Files>
+</MakeInfo>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="gb2312"?>
+<tclibrary>
+  <testcase name="MyTestCase" id="982571671" comment="" signature="MyTestCase()" file="D:\ECU_Simulator\testPython\vTest\callPthon\py.cs" SourceFilePersistencyGuid="52p58sqeh4ro" IsPrivate="false" IsNetSignatureAndDefinedInExternalDll="false" assembly="callPthon" class="IPCP">
+    <return type="void" raw_type="void" />
+    <document_position><![CDATA[<OffsetDocumentPosition xmlns:SerializedType="Vector.ITE.Document.OffsetDocumentPosition"><Offset>401</Offset></OffsetDocumentPosition>]]></document_position>
+    <implementation_language lang="CS" />
+  </testcase>
+  <testfunction name="init_ipcp" id="2723155716" comment="" signature="init_ipcp()" file="D:\ECU_Simulator\testPython\vTest\callPthon\py.cs" SourceFilePersistencyGuid="52p58sqeh4ro" IsPrivate="false" IsNetSignatureAndDefinedInExternalDll="false" assembly="callPthon" class="IPCP">
+    <return type="void" raw_type="void" />
+    <document_position><![CDATA[<OffsetDocumentPosition xmlns:SerializedType="Vector.ITE.Document.OffsetDocumentPosition"><Offset>668</Offset></OffsetDocumentPosition>]]></document_position>
+    <implementation_language lang="CS" />
+  </testfunction>
+  <testfunction name="exit_ipcp" id="3842064118" comment="" signature="exit_ipcp()" file="D:\ECU_Simulator\testPython\vTest\callPthon\py.cs" SourceFilePersistencyGuid="52p58sqeh4ro" IsPrivate="false" IsNetSignatureAndDefinedInExternalDll="false" assembly="callPthon" class="IPCP">
+    <return type="void" raw_type="void" />
+    <document_position><![CDATA[<OffsetDocumentPosition xmlns:SerializedType="Vector.ITE.Document.OffsetDocumentPosition"><Offset>1342</Offset></OffsetDocumentPosition>]]></document_position>
+    <implementation_language lang="CS" />
+  </testfunction>
+</tclibrary>

@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--Vector Test Table Editor-->
+<ttroot version="24" minRequiredVersion="16" xmlns="http://www.vector-informatik.de/ITE/TestTable/1.0">
+  <tt>
+    <tc>
+      <title />
+      <tcid>50a9291f-33d0-4d2b-b7b4-85510fe4f3c0</tcid>
+      <set>
+        <title />
+        <in>
+          <assignment>
+            <sink>
+              <dbobject>SysVar_BEGIN_OF_OBJECT|1|global_json|Json|-1|0|END_OF_OBJECT_SysVar|</dbobject>
+            </sink>
+            <source>
+              <const>abc</const>
+            </source>
+          </assignment>
+        </in>
+      </set>
+      <wait>
+        <title />
+        <time>
+          <value>
+            <const>100</const>
+          </value>
+          <unit>ms</unit>
+        </time>
+      </wait>
+      <netfunction>
+        <title />
+        <name>init_ipcp</name>
+        <class>IPCP</class>
+        <assembly />
+      </netfunction>
+    </tc>
+  </tt>
+  <ttlib>
+    <ts_definitions />
+    <tc_definitions />
+    <function_definitions />
+  </ttlib>
+</ttroot>
